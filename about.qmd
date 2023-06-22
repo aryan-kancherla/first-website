@@ -2,8 +2,21 @@
 title: "About"
 ---
 
-About this site
+## About Me
+My name is **Aryan Kancherla**, a rising senior at Metea Valley High School. I have many interests, including basketball, volleyball, ping pong, and programming
 
-```{r}
-1 + 1
-```
+## About the Project
+
+
+My project, *The Fuel Efficency and Weight of Cars*, utilizes the tidyverse and ggthemes packages to analyze data from the mtcars dataset, specifically looking at the relationship between the fuel efficency and weight of cars.
+
+### Goals
+- To analyze the mtcars dataset, specifically looking at the fuel efficiency and weight of cars   
+  + had to make sure to load the libraries before analyzing the data, because otherwise an error would occur
+- Model the relationship between these 2 variables
+
+"This is data science"
+\
+~Preceptor
+
+[Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info)
